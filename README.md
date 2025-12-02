@@ -1,27 +1,106 @@
-<!-- === HERO SECTION — CYBERPUNK GLITCH / NEON === -->
-<img src="./assets/ichigo.gif" width="100%" style="border-radius: 0; display: block; filter: drop-shadow(0 0 25px #ff00ff);" alt="Profile Banner"/>
+<!-- 
+  🌌 OLED CYBERPUNK THEME — Sleek · Minimal · Futuristic
+  Inspired by true black OLED, neon accents, and clean code.
+-->
+
+<div align="center">
+  <img src="./assets/ichigo.gif" width="100%" style="border-radius: 0; display: block; filter: drop-shadow(0 0 20px #ff00ff); margin-bottom: 24px;" alt="Profile Banner"/>
+</div>
 
 <br/>
 
-<!-- # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
+<div align="center">
+  <a href="https://instagram.com/hnzsama_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luqman-bil-as-har-a0826b297/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hznsama@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email"/>
+  </a>
+</div>
 
+<br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hnzsama_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqman-bil-as-har-a0826b297/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hznsama@gmail.com) 
+<!-- === TECH STACK === -->
+<div align="center">
+  <!-- Group 1 -->
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
+  
+  <!-- Group 2 -->
+  <br/><br/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=Ionic&logoColor=white" alt="Ionic"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  
+  <!-- Group 3 -->
+  <br/><br/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Filament-FFAA00?style=flat&logoColor=%23000000" alt="Filament"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  
+  <!-- Group 4 -->
+  <br/><br/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
+</div>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br/><br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Hnzsama&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hnzsama&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hnzsama&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- === STATS === -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hnzsama&theme=transparent&bg_color=00000000&text_color=ffffff&icon_color=00f7ff&border_radius=8&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnzsama&theme=transparent&bg_color=00000000&text_color=ffffff&layout=compact&hide_border=true&border_radius=8&langs_count=6" width="48%" />
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=Hnzsama&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hnzsama&theme=transparent&background=00000000&stroke=ffffff44&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff&sideLabels=ffffff&dates=ffffff88&hide_border=true" />
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=Hnzsama&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Hnzsama&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hnzsama&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&background=00000000&color=ffffff&font=Inter&border=false" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Hnzsama&limit=5&theme=transparent&bg_color=00000000&text_color=ffffff&border_radius=8&hide_border=true&combine_all_yearly_contributions=true" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Hnzsama&icon=0&color=0" alt="Visitor Count" />
+  </a>
+</div>
+
+<br/>
+<p align="center">
+  <i>crafted in the void • powered by ☕ & neon dreams</i>
+</p>
