@@ -1,202 +1,200 @@
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:0f0f0f&height=120&section=header"/>
+
+<!-- Main Profile Section -->
+<table width="100%">
+<tr>
+<td width="35%" valign="top">
+
+<!-- Profile Card -->
 <div align="center">
+<img src="./assets/ichigo.gif" width="280" alt="Ichigo" style="border-radius: 15px; border: 2px solid #00f7f7;"/>
 
-<!-- Header dengan efek glitch -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=200&section=header&text=Welcome%20to%20the%20Void&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-<!-- Ichigo GIF -->
-<img src="./assets/ichigo.gif" width="200" alt="Ichigo"/>
-
-</div>
-
-<div align="center">
-  
+### **LUQMAN BIL AS'HAR**
 ```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗  ██████╗ ██████╗ ███████╗    ██╗███╗   ██╗        ║
-║  ██╔════╝ ██╔═══██╗██╔══██╗██╔════╝   ██╔╝████╗  ██║        ║
-║  ██║      ██║   ██║██║  ██║█████╗    ██╔╝ ██╔██╗ ██║        ║
-║  ██║      ██║   ██║██║  ██║██╔══╝   ██╔╝  ██║╚██╗██║        ║
-║  ╚██████╗ ╚██████╔╝██████╔╝███████╗██╔╝   ██║ ╚████║        ║
-║   ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚═╝    ╚═╝  ╚═══╝        ║
-║                                                               ║
-║          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓             ║
-║          ░ SYSTEM INITIALIZED • STATUS: ONLINE ░             ║
-║          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓             ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+┌─────────────────────┐
+│  @Hnzsama           │
+│  STATUS: [ONLINE]   │
+│  LOC: Surabaya, ID  │
+└─────────────────────┘
 ```
 
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hnzsama@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=safari&logoColor=white)](https://YOUR_PORTFOLIO.com)
+
+![](https://komarev.com/ghpvc/?username=Hnzsama&color=00f7f7&style=flat-square)
+
 </div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Digital+Ghost+%F0%9F%91%BB;Building+in+the+Shadows...)](https://git.io/typing-svg)
+</td>
+<td width="65%" valign="top">
 
-</div>
+<!-- Bio Section -->
+## 💫 ABOUT
 
-<!-- Cyber divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🕵️ CLASSIFIED INTEL
+**Full Stack Developer** | **Open Source Enthusiast** | **Problem Solver**
 
 ```javascript
-const ghost = {
-    alias: "Hnzsama",
-    realName: "Luqman Bil As'har",
-    location: "Surabaya • Indonesia 🇮🇩",
-    status: "▰▰▰▰▰▰▰▰▰▰ ONLINE",
-    role: ["Developer", "Problem Solver", "Digital Architect"],
-    languages: ["JavaScript", "Python", "TypeScript", "Go"],
-    specialization: "Crafting digital experiences in the shadows",
-    mission: "Building the future, one commit at a time",
-    encrypted_message: "01001000 01101110 01111010" // "Hnz"
+const luqman = {
+  code: ["JavaScript", "TypeScript", "Python", "Go"],
+  technologies: {
+    frontend: ["React", "Next.js", "Vue", "Tailwind"],
+    backend: ["Node.js", "Express", "Django", "PostgreSQL"],
+    devOps: ["Docker", "AWS", "GitHub Actions"],
+    tools: ["Git", "VS Code", "Postman", "Figma"]
+  },
+  currentFocus: "Building scalable web applications",
+  philosophy: "Clean code, clean mind"
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🎯 CURRENT MISSION
+- 🔭 Working on innovative full-stack projects
+- 🌱 Exploring microservices architecture
+- 💡 Contributing to open source
+- ⚡ Always learning, always building
 
-## 🛡️ TECH ARSENAL
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ TECH STACK
 
 <div align="center">
 
-### ⚔️ Languages & Frameworks
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,cpp,c&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,nodejs,express,nestjs&theme=dark" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🔮 Backend & Database
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,graphql,postgres,mongodb,redis,mysql&theme=dark" />
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☁️ Cloud & DevOps
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,jenkins,github&theme=dark" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🎨 Design & Tools
+**DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,sass,vite,webpack,git,vim,vscode&theme=dark" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 📡 SYSTEM METRICS
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hnzsama&show_icons=true&theme=transparent&hide_border=true&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff&bg_color=0d1117" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hnzsama&theme=transparent&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7&sideLabels=00f7f7&currStreakNum=ffffff&dates=ffffff" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnzsama&layout=compact&theme=transparent&hide_border=true&title_color=00f7f7&text_color=ffffff&bg_color=0d1117&langs_count=8" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hnzsama&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff&area=true&area_color=00f7f7" width="100%"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hnzsama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&ring_color=00f7f7" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hnzsama&theme=radical&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnzsama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hnzsama&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=c9d1d9" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hnzsama&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🏴‍☠️ ACHIEVEMENTS UNLOCKED
+## 🐍 CONTRIBUTION GRAPH
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hnzsama&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma)
+![Snake animation](https://raw.githubusercontent.com/Hnzsama/Hnzsama/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 💀 CONTRIBUTION MATRIX
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
-  
-<img src="https://raw.githubusercontent.com/Hnzsama/Hnzsama/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<table>
+<tr>
+<td width="50%">
 
-### ⚡ Recent Activity
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Hnzsama&repo=PROJECT1&theme=transparent&hide_border=true&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff&bg_color=0d1117)](https://github.com/Hnzsama/PROJECT1)
+
+</td>
+<td width="50%">
+
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Hnzsama&repo=PROJECT2&theme=transparent&hide_border=true&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff&bg_color=0d1117)](https://github.com/Hnzsama/PROJECT2)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 💻 ACTIVITY
 
 <!--START_SECTION:activity-->
-<!-- Activity will be automatically updated -->
+<!-- GitHub Activity automatically updates here -->
 <!--END_SECTION:activity-->
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 FEATURED REPOSITORIES
+---
 
 <div align="center">
 
-<a href="https://github.com/Hnzsama/PROJECT1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hnzsama&repo=PROJECT1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
-</a>
+### 📫 LET'S CONNECT
 
-<a href="https://github.com/Hnzsama/PROJECT2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hnzsama&repo=PROJECT2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📬 ENCRYPTED CHANNELS
-
-<div align="center">
-
-```bash
-> Initiating secure connection...
-> Establishing encrypted tunnel...
-> Connection established ✓
-```
-
-<a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/YOUR_HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter"/>
-</a>
-<a href="https://YOUR_PORTFOLIO.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Portfolio"/>
-</a>
-<a href="mailto:hnzsama@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-</a>
-<a href="https://discord.com/users/YOUR_DISCORD" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 🎭 SYSTEM STATUS
+**Open for collaborations, freelance projects, and interesting discussions**
 
 ```diff
-+ STATUS: ONLINE AND CODING
-+ COFFEE LEVEL: ████████░░ 80%
-+ PROJECT PROGRESS: ██████████ 100%
-- BUGS REMAINING: 404 NOT FOUND
-! COMMIT STREAK: ON FIRE 🔥
++ Available for: Full Stack Development | Web Design | Open Source Projects
+! Response time: Usually within 24 hours
+@ Best way to reach: hnzsama@gmail.com
 ```
 
-<br/>
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hnzsama&color=00f7f7&style=for-the-badge&label=VISITORS)
-![GitHub Followers](https://img.shields.io/github/followers/Hnzsama?style=for-the-badge&color=00f7f7&labelColor=0d1117)
+<sub>**"Code is poetry written in logic"** — Hnzsama</sub>
 
-<br/>
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  "In code we trust, in bugs we debug, in coffee we believe"  ║
-║                                                               ║
-║              ⚡ POWERED BY CAFFEINE & DETERMINATION ⚡         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:0f0f0f&height=100&section=footer"/>
 
 </div>
