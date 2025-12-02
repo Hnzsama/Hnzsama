@@ -96,7 +96,7 @@
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Hnzsama&icon=0&color=0" alt="Visitor Count" />
+    <img src="https://visitcount.itsvg.in/api?id=Hnzsama&label=Profile%20Views&color=2&icon=6&pretty=true" />
   </a>
 </div>
 
