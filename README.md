@@ -9,12 +9,6 @@
 
 <div align="center">
 
-<!-- Title -->
-<h1 align="center" style="margin-bottom: 6px;">Luqman Bil As'har</h1>
-<p align="center" style="margin-top: 0.2rem; color: #9aa0a6;">
-  Software & Mobile Engineer · Student projects · Experimental AI / Graphics
-</p>
-
 <!-- Socials -->
 <p align="center" style="margin-top: 8px;">
   <a href="https://instagram.com/hnzsama_" title="Instagram">
@@ -52,11 +46,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-<!-- Short footer note -->
-<p align="center" style="margin-top: 12px; color: #7b8086; font-size: 0.95rem;">
-  Dark / OLED theme • Clean badges • Paste to <code>README.md</code>
 </p>
 
 </div>
